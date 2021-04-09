@@ -76,3 +76,20 @@ ol ul {
   padding: .5em 1.5em .7em;
   font-weight: bold;
 }
+
+ul li {
+  padding: 0 .25em;
+}
+
+ul li:first-child {
+  margin-right: auto;
+}
+a ul a {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+ul a img {
+  margin-left: .25em;
+}
