@@ -12,11 +12,21 @@ body {
   margin: 0;
 }
 
+main {
+  margin: 1rem;
+}
+
 h2 {
   font-family: Oswald, sans-serif;
   margin: 0;
   color: #6f00e7;
   font-size: 2rem;
+}
+
+p {
+  text-align: center;
+  margin: 0 0 1.5rem;
+  font-size: 1.4rem;
 }
 
 ol {
