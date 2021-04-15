@@ -85,7 +85,7 @@ ul li:first-child {
   margin-right: auto;
 }
 
-a ul a {
+a ul {
   display: flex;
   justify-content: start;
   align-items: center;
